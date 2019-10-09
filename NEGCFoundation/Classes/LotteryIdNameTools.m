@@ -11,6 +11,6 @@
 @implementation LotteryIdNameTools
 
 + (void)test{
-    NSLog("hello pod");
+    NSLog(@"hello pod");
 }
 @end
