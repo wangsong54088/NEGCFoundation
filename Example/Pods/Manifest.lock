@@ -1,0 +1,16 @@
+PODS:
+  - NEGCFoundation (0.1.0)
+
+DEPENDENCIES:
+  - NEGCFoundation (from `../`)
+
+EXTERNAL SOURCES:
+  NEGCFoundation:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  NEGCFoundation: a75cb2df70ca3221c308f89e58689afca436b556
+
+PODFILE CHECKSUM: a3f13d2463516cce4d220c842a24c5179d6f4647
+
+COCOAPODS: 1.5.3

@@ -1,0 +1,6 @@
+framework module Pods_NEGCFoundation_Tests {
+  umbrella header "Pods-NEGCFoundation_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

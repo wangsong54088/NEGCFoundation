@@ -1,0 +1,6 @@
+framework module NEGCFoundation {
+  umbrella header "NEGCFoundation-umbrella.h"
+
+  export *
+  module * { export * }
+}

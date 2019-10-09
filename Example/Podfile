@@ -1,0 +1,6 @@
+use_frameworks!
+target 'NEGCFoundation_Tests' do
+  pod 'NEGCFoundation', :path => '../'
+  
+  
+end
